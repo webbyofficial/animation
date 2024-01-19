@@ -8,7 +8,7 @@ A lightweight and easy-to-use NPM package that enables React developers to add b
 
 Install `@webbydevs/animation` using NPM:
 
-```
+```bash
 npm install @webbydevs/animation
 ```
 
@@ -17,7 +17,7 @@ npm install @webbydevs/animation
 The package contains only once component which is easy to use.
 You can import it like this:
 
-```
+```javascript
 import { Animation } from "@webbydevs/animation";
 ```
 
@@ -29,8 +29,8 @@ The component takes two arguments, `direction` and `delay`.
 
 ## Example usage
 
-```
+```javascript
 <Animation direction={"left"} delay={200}>
-    {/* You component goes herer */}
+  {/* You component goes herer */}
 </Animation>
 ```
