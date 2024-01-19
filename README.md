@@ -1,4 +1,4 @@
-# @webbydevs/animation
+# webbydevs/animation
 
 ### Description
 
