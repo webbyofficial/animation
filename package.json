@@ -1,11 +1,12 @@
 {
-  "name": "animation",
+  "name": "@webbydevs/animation",
   "version": "1.0.0",
   "description": "An animation library for React projects.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ladle": "ladle serve"
+    "ladle": "ladle serve",
+    "build": "tsup"
   },
   "repository": {
     "type": "git",
@@ -27,9 +28,18 @@
     "@types/react-dom": "^18.2.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   },
   "dependencies": {
     "react-intersection-observer": "^9.5.3"
-  }
+  },
+  "peerDependencies": {
+    "react": "^16.8 || ^17 || ^18",
+    "react-dom": "^16.8 || ^17 || ^18"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
 }
