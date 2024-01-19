@@ -2,6 +2,8 @@
 
 A lightweight and easy-to-use NPM package that enables React developers to add basic on-scroll animations with typescript support to their web applications. With just a single component, you can bring life to your UI by implementing engaging floating animations.
 
+https://www.npmjs.com/package/@webbydevs/animation
+
 ## Installation
 
 Install `@webbydevs/animation` using NPM:

@@ -1,7 +1,7 @@
 {
   "name": "@webbydevs/animation",
   "version": "1.1.1",
-  "description": "An animation library for React projects.\nhttps://www.npmjs.com/package/@webbydevs/animation",
+  "description": "An animation library for React projects.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
