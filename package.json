@@ -1,6 +1,6 @@
 {
   "name": "@webbydevs/animation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An animation library for React projects.",
   "main": "dist/index.js",
   "scripts": {

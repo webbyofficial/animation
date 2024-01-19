@@ -22,7 +22,10 @@ export function Animation({ direction, delay, children }: AnimationProps) {
   return (
     <div
       ref={ref}
-      style={{ transitionDelay: (delay ? delay : 0) + "ms" }}
+      style={{
+        transitionDelay: (delay ? delay : 0) + "ms",
+        backgroundColor: "red",
+      }}
       className={`${"animation_base"} ${classNameHidden} ${
         counter < 1 ? (inView ? " " + classNameShow : "") : " " + classNameShow
       }`}
