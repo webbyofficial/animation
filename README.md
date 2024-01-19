@@ -31,7 +31,7 @@ The component takes two arguments, `direction` and `delay`.
 
 ```javascript
 <Animation direction={"left"} delay={200}>
-  {/* You component goes herer */}
+  {/* You component goes here... */}
 </Animation>
 ```
 
