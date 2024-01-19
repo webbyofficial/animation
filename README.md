@@ -12,7 +12,7 @@ npm install @webbydevs/animation
 
 ## Documentation
 
-The package contains only once component which is easy to use.
+The package contains only one component which is easy to use.
 You can import it like this:
 
 ```javascript
