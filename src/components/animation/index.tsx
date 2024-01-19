@@ -36,13 +36,10 @@ export function Animation({ direction, delay, children }: AnimationProps) {
     return after;
   };
 
-  console.log(!!delay);
-
   return (
     <div
       ref={ref}
       style={{
-        backgroundColor: "red",
         opacity: beforeOrAfterAnimation(0, 1),
         transition: "all 1s " + (delay ? delay : 0) + "ms",
         width: "auto",
