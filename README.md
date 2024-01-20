@@ -35,6 +35,8 @@ The component takes two arguments, `direction` and `delay`.
 </Animation>
 ```
 
+If you would like to see some real life examples of this package, you can check it out at our organization's home page. https://webbydevs.com
+
 ## Thank you
 
 Thank you for choosing the `@webbydevs/animation` library to enhance your React applications! We're excited to be a part of your creative journey and we hope it adds a touch of magic to your user interface. Thanks again for being a part of our community. Happy coding!
