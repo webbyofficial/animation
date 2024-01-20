@@ -14,7 +14,10 @@
   },
   "keywords": [
     "animation",
-    "react"
+    "react",
+    "scroll",
+    "on scroll",
+    "typescript",
   ],
   "author": "nyikus",
   "license": "MIT",
