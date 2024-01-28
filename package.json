@@ -1,6 +1,6 @@
 {
   "name": "@webbydevs/react-animation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An animation library for React projects.",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webbyofficial/animation.git"
+    "url": "git+https://github.com/webbyofficial/react-animation.git"
   },
   "keywords": [
     "animation",
@@ -22,9 +22,9 @@
   "author": "nyikus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webbyofficial/animation/issues"
+    "url": "https://github.com/webbyofficial/react-animation/issues"
   },
-  "homepage": "https://github.com/webbyofficial/animation#readme",
+  "homepage": "https://github.com/webbyofficial/react-animation#readme",
   "devDependencies": {
     "@ladle/react": "^4.0.2",
     "@types/react": "^18.2.48",
