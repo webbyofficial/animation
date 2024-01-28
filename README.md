@@ -1,16 +1,16 @@
-# webbydevs/animation
+# webbydevs/react-animation
 
 A lightweight and easy-to-use NPM package that enables React developers to add basic on-scroll animations with typescript support to their web applications. With just a single component, you can bring life to your UI by implementing engaging floating animations.
 
 ## Installation
 
-Install `@webbydevs/animation` using NPM:
+Install `@webbydevs/react-animation` using NPM:
 
 ```bash
-npm install @webbydevs/animation
+npm install @webbydevs/react-animation
 ```
 
-https://www.npmjs.com/package/@webbydevs/animation
+https://www.npmjs.com/package/@webbydevs/react-animation
 
 ## Documentation
 
@@ -18,7 +18,7 @@ The package contains only one component which is easy to use.
 You can import it like this:
 
 ```javascript
-import { Animation } from "@webbydevs/animation";
+import { Animation } from "@webbydevs/react-animation";
 ```
 
 The component takes two arguments, `direction` and `delay`.
@@ -39,6 +39,6 @@ If you would like to see some real life examples of this package, you can check 
 
 ## Thank you
 
-Thank you for choosing the `@webbydevs/animation` library to enhance your React applications! We're excited to be a part of your creative journey and we hope it adds a touch of magic to your user interface. Thanks again for being a part of our community. Happy coding!
+Thank you for choosing the `@webbydevs/react-animation` library to enhance your React applications! We're excited to be a part of your creative journey and we hope it adds a touch of magic to your user interface. Thanks again for being a part of our community. Happy coding!
 
 Also, check out our organization at https://webbydevs.com
