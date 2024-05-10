@@ -3,5 +3,6 @@
   "sourcemap": true,
   "clean": true,
   "minify": true,
-  "entry": ["src/index.tsx"]
+  "entry": ["src/index.tsx"],
+  "dts": true
 }

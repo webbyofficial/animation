@@ -1,6 +1,6 @@
 {
   "name": "@webbydevs/react-animation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An animation library for React projects.",
   "main": "dist/index.js",
   "scripts": {
@@ -44,5 +44,5 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "./dist/index.d.ts"
 }
